@@ -170,7 +170,7 @@ Build a SaaS platform enabling small-to-medium businesses and solo entrepreneurs
 
   a. Set up project using official Epic Stack template.
 
-  b. Set up basic routing (Dashboard, Scheduler, Analytics, Create Post, Settings). Remove unneeded template routes (e.g. /notes).
+  b. Create new template routes for Dashboard, Scheduler, Analytics, Create Post. Follow the existing structure in the routes folder. Re-use the existing template routes for Settings and Users.
 
   c. Configure Framer Motion for animations.
 
